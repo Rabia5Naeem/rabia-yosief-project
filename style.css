@@ -12,6 +12,7 @@
     height: 400px;
     padding-top: 2%;
     margin-left: 30%;
+    display: block;
     }
     #tagline{
         font-size: small;
@@ -19,4 +20,14 @@
     }
     #img-caption{
        text-align: center;
+    }
+    #tribute-info
+    { 
+        font-size:larger;
+        text-align: center;
+
+    }
+    #tribute-link{
+        font-size:larger;
+        text-align: center;
     }
