@@ -12,7 +12,7 @@
     height: 400px;
     padding-top: 2%;
     margin-left: 30%;
-    display: block;
+    max-width: max-content;
     }
     #tagline{
         font-size: small;
@@ -23,11 +23,12 @@
     }
     #tribute-info
     { 
-        font-size:larger;
-        text-align: center;
+        font-size:medium;
+        margin-left: 15%;
+
 
     }
     #tribute-link{
-        font-size:larger;
-        text-align: center;
+        font-size:medium;
+        margin-left:30%;
     }
